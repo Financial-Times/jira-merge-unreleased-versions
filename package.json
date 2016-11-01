@@ -1,0 +1,25 @@
+{
+  "name": "@quarterto/jira-merge-unreleased-versions",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "bin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Financial-Times/jira-merge-unreleased-versions.git"
+  },
+  "keywords": [],
+  "author": "Matt Brennan <matt@153.io> (http://blog.153.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Financial-Times/jira-merge-unreleased-versions/issues"
+  },
+  "homepage": "https://github.com/Financial-Times/jira-merge-unreleased-versions#readme",
+  "dependencies": {
+    "@quarterto/jira-get-versions": "^1.1.0",
+    "@quarterto/jira-merge-versions": "^1.1.0",
+    "@quarterto/jira-release-version": "^1.0.0",
+    "@quarterto/log-promise": "^1.1.0"
+  },
+  "devDependencies": {}
+}
