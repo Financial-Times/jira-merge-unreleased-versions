@@ -1,5 +1,5 @@
 {
-  "name": "@quarterto/jira-merge-unreleased-versions",
+  "name": "jira-merge-unreleased-versions",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
