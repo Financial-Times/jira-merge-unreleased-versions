@@ -23,6 +23,8 @@ with all the tickets from v2 and v3 moved into v4.
 ## Usage
 
 ```
+npm install --save jira-merge-unreleased-versions
+```
 
 You'll need a `package.json`, whose `name` will be used as the prefix to find your JIRA versions, and self-explanatory environment variables `JIRA_HOST`, `JIRA_PROJECT`, `JIRA_USERNAME` and `JIRA_PASSWORD`.
 
